@@ -2,9 +2,7 @@ This repository contains data and code related to the MRR Innovation Lab project
 
 Survey instruments and their associated SurveyCTO code can be found in the "Survey Instruments" folder. 
 
-The de-identified datasets associated with each survey can be found in the "Data" folder. They include:
-
-Baseline (dtmii_baseline2_noid.dta)
+The de-identified datasets associated with each survey can be found in the "Data" folder. 
 
 Users will be able to merge across datasets using the `stableid` variable a unique identifier within each year of the data.
 
